@@ -12,7 +12,8 @@
 * Установите и иницируйте [terraform](https://www.terraform.io/downloads.html)
 * (Для пользователей windows) установите [git-bash](https://gitforwindows.org)
 * Сгенерируйте [ssh ключ](https://git-scm.com/book/ru/v1/Git-на-сервере-Создание-открытого-SSH-ключа) для доступа к инстансам
-
+* Скачайте этот репозиторий  `git clone https://github.com/nar3k/yc-recipes.git`
+* Перейдите в фолдер с этим репозиторием `cd yc-recipes`
 
 ## Рецепты
 
